@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NONS Skuyy</string>
+    <string name="lewati_perkenalan">LEWATI PERKENALAN</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_description">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="presale">Pre Sale</string>
+    <string name="presale_description">My Bre And My sis tidak perlu\nkhawatir ketinggalan film terbaru</string>
+    <string name="cashlees">Cashlees</string>
+    <string name="cashlees_description">Permudah Pembayaran Dengan\nMenggunakan e-wallet
+    </string>
 </resources>
