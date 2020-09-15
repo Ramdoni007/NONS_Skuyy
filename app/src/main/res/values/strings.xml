@@ -9,4 +9,6 @@
     <string name="cashlees">Cashlees</string>
     <string name="cashlees_description">Permudah Pembayaran Dengan\nMenggunakan e-wallet
     </string>
+    <string name="sign_in">Sign In</string>
+    <string name="usernme">Username</string>
 </resources>

@@ -7,4 +7,5 @@
     <color name="colorPrimaryButton">#FE368A</color>
     <color name="ColorSecondaryButton">#270C45</color>
     <color name="coloWhite">#FFFFFF</color>
+    <color name="coloWhiteGrey">#C3C0C0</color>
 </resources>
