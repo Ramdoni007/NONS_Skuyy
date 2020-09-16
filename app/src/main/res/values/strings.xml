@@ -12,4 +12,6 @@
     <string name="sign_in">Sign In</string>
     <string name="usernme">Username</string>
     <string name="sign_up">Sign Up</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email Adress</string>
 </resources>
