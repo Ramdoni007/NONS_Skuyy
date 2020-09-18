@@ -3,17 +3,11 @@ package com.blueskywalker.nonsskuyy
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class SignInActivity : AppCompatActivity() {
+class HomeMainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_sign_in)
+        setContentView(R.layout.activity_home_main)
     }
 }
-
-
-
-
-
-
 
 
