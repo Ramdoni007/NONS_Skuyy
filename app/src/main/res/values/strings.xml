@@ -21,4 +21,9 @@
     <string name="yang_akan_datang">Yang Akan Datang</string>
     <string name="pilih_bangku">Pilih Bangku</string>
     <string name="beli_tiket">Beli Tiket(2)</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="waktu_bayar">Waktu Bayar</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">BATALKAN</string>
+    <string name="tglandwakt"><![CDATA[Tanggal & Waktu]]></string>
 </resources>
