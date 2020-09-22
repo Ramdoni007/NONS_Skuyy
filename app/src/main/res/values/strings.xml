@@ -26,4 +26,6 @@
     <string name="bayar_sekarang">Bayar Sekarang</string>
     <string name="batalkan">BATALKAN</string>
     <string name="tglandwakt"><![CDATA[Tanggal & Waktu]]></string>
+    <string name="cinema">Cinema</string>
+    <string name="items">Items</string>
 </resources>
