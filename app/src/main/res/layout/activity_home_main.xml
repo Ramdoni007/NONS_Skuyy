@@ -101,7 +101,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:src="@drawable/Ic_Home" />
+            android:src="@drawable/ic_home" />
 
         <ImageView
             android:src="@drawable/ic_tickets"
@@ -109,7 +109,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1" />
         <ImageView
-            android:src="@drawable/IC_Profile"
+            android:src="@drawable/ic_profile"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1" />
