@@ -32,4 +32,6 @@
     <string name="idr_300k">IDR 300K</string>
     <string name="saldo_tersedia">Saldo Tersedia</string>
     <string name="riwayat">Riwayat Transaksi</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="history">History</string>
 </resources>
