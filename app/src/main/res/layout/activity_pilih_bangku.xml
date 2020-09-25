@@ -8,7 +8,7 @@
     tools:context=".onboarding.OnboardingOneActivity">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btn_home"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -147,7 +147,7 @@
         android:text="Kosong"
         android:textColor="@color/coloWhite"
         android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintBottom_toTopOf="@+id/btn_home"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -161,7 +161,7 @@
         android:text="Penuh"
         android:textColor="@color/coloWhite"
         android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintBottom_toTopOf="@+id/btn_home"
         app:layout_constraintStart_toEndOf="@+id/textView18" />
 
     <TextView
@@ -175,7 +175,7 @@
         android:layout_marginBottom="24dp"
         android:text="Di Pilih"
         android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintBottom_toTopOf="@+id/btn_home"
         app:layout_constraintStart_toEndOf="@+id/textView19" />
 
 
