@@ -17,7 +17,6 @@
     <string name="photo">Photo</string>
     <string name="welcome_downy">Welcome,\nDowny Uwu-Uwu</string>
     <string name="simpan_dan_lanjutkan">Simpan Dan Lanjutkan</string>
-    <string name="now_playing">Now Playing</string>
     <string name="yang_akan_datang">Yang Akan Datang</string>
     <string name="pilih_bangku">Pilih Bangku</string>
     <string name="beli_tiket">Beli Tiket(2)</string>
@@ -30,4 +29,7 @@
     <string name="items">Items</string>
     <string name="edit_profile">Edit Profile</string>
     <string name="simpan_data_baru">Simpan Data Baru</string>
+    <string name="idr_300k">IDR 300K</string>
+    <string name="saldo_tersedia">Saldo Tersedia</string>
+    <string name="riwayat">Riwayat Transaksi</string>
 </resources>
